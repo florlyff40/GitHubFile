@@ -1,2 +1,0 @@
-test github
-sample repository to be view in github
